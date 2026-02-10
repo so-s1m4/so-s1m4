@@ -57,7 +57,7 @@
 
 ## 🏆 Certifications
 <p>
-<a href='google.com'>
+<a href='https://www.certible.com/badge/8990a2a9-c049-42d7-a119-b1d1cc28a4e1/'>
 <img src="assets/CTFL4.png" height='100px'>
 </a>
 </p>
