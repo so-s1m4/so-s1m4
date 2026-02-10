@@ -77,17 +77,11 @@ REST API, authentication, real-time communication
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=so-s1m4&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: *(add link)*
-- ✉️ Email: *(optional)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=so-s1m4&layout=compact&theme=dark)
 
 ---
+
 
 ⭐️ Always open to interesting projects and collaborations!
