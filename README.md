@@ -57,7 +57,9 @@
 
 ## 🏆 Certifications
 <p>
+<a href='google.com'>
 <img src="assets/CTFL4.png" height='100px'>
+</a>
 </p>
 
 ---
@@ -74,14 +76,5 @@ REST API, authentication, real-time communication
 👉 More high-quality projects coming soon.
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=so-s1m4&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=so-s1m4&layout=compact&theme=dark)
-
----
-
 
 ⭐️ Always open to interesting projects and collaborations!
