@@ -64,16 +64,35 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🔐 **Secure Chat Application**  
-End-to-end encrypted messaging using public/private key cryptography  
-**Tech:** Angular · Express · Socket.io · Crypto  
+### 🔐 Secure Chat Application
+**End-to-End encrypted real-time messenger** built with modern web technologies.
 
-📦 **Full-Stack Web Platform**  
-REST API, authentication, real-time communication  
+✅ Public/private key cryptography  
+✅ Secure authentication  
+✅ Real-time communication via WebSockets  
+✅ Scalable backend architecture  
 
-👉 More high-quality projects coming soon.
+**Tech Stack:** Angular · Node.js · Express · Socket.io · Cryptography
+
+
+---
+
+### 📦 Full-Stack Web Platform
+A production-style web application focused on performance, security, and clean architecture.
+
+✅ RESTful API  
+✅ Authentication & authorization  
+✅ Real-time features  
+✅ Modular backend structure  
+
+**Tech Stack:** Angular · Node.js · MongoDB · Express
+
+
+---
+
+⭐ **More high-quality projects coming soon.**
 
 ---
 
