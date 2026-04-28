@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Max
 
 🎓 Student | 💻 Aspiring Software Engineer  
-🚀 Web Development • Backend • Secure Applications  
+🚀 Web Development • Frontend • Backend • Secure Applications  
 
 ---
 
