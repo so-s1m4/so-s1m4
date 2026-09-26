@@ -74,6 +74,10 @@ A production-style platform focused on performance, security, and a modular back
 | 🇩🇪 German | C1 · Advanced |
 | 🇬🇧 English | B1 |
 
+## Achievements
+
+🏆 **ACSC Final — 3rd place, Junior division**
+
 ## Certification
 
 <a href="https://www.certible.com/badge/8990a2a9-c049-42d7-a119-b1d1cc28a4e1/">
