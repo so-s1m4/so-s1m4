@@ -1,99 +1,93 @@
-# 👋 Hi, I’m Max
+<div align="center">
 
-🎓 Student | 💻 Aspiring Software Engineer  
-🚀 Web Development • Frontend • Backend • Secure Applications  
+# Hi, I’m Max 👋
 
----
+### Software engineering student building secure, useful web products
 
-## 🧠 About Me
+I enjoy turning a product idea into a clean full-stack application — from a thoughtful interface to a dependable API and data layer.
 
-- 🎯 Focused on writing **clean, maintainable code**
-- 🔐 Interested in **security** and **system architecture**
-- 🛠️ Building real-world full-stack applications
-- 🌱 Constantly improving my engineering skills
+<a href="https://github.com/so-s1m4?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"></a>
+
+</div>
 
 ---
 
-## 🌍 Languages
+## What I’m working on
 
-🇩🇪 **German — C1 (Advanced)**  
-🇬🇧 **English — B1**  
-🇺🇦 **Ukrainian — Native**  
-🇷🇺 **Russian — Native**
+- Building full-stack applications with a focus on maintainable architecture
+- Learning more about application security, cryptography, and system design
+- Improving the small details that make software easier to use and maintain
 
-> 💡 Comfortable working in international teams.
+## Core toolkit
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+| Frontend | Backend | Data & infrastructure |
+| --- | --- | --- |
+| HTML · CSS · JavaScript | Node.js · Express | MongoDB · MySQL |
+| TypeScript · Angular | REST APIs · WebSockets | PostgreSQL · SQLite |
+| Responsive UI | Authentication · Cryptography | Git · Docker |
 
-### Frontend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='100px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='100px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='100px'/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px'/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height='100px'/>
+</div>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="42" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="58" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" />
 </p>
 
-### Backend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height='100px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height='100px' />
-</p>
-
-### Databases & Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height='100px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='100px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height='100px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height='100px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height='100px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height='100px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height='100px' />
-</p>
-
----
-
-## 🏆 Certifications
-<p>
-<a href='https://www.certible.com/badge/8990a2a9-c049-42d7-a119-b1d1cc28a4e1/'>
-<img src="assets/CTFL4.png" height='100px'>
-</a>
-</p>
-
----
-
-## 🚀 Featured Projects
+## Selected work
 
 ### 🔐 Secure Chat Application
-**End-to-End encrypted real-time messenger** built with modern web technologies.
 
-✅ Public/private key cryptography  
-✅ Secure authentication  
-✅ Real-time communication via WebSockets  
-✅ Scalable backend architecture  
+An end-to-end encrypted real-time messenger concept built around secure communication and a scalable service boundary.
 
-**Tech Stack:** Angular · Node.js · Express · Socket.io · Cryptography
+`Angular` `Node.js` `Express` `Socket.io` `Cryptography`
 
-
----
+- Public/private key cryptography
+- Secure authentication
+- Real-time messaging over WebSockets
 
 ### 📦 Full-Stack Web Platform
-A production-style web application focused on performance, security, and clean architecture.
 
-✅ RESTful API  
-✅ Authentication & authorization  
-✅ Real-time features  
-✅ Modular backend structure  
+A production-style platform focused on performance, security, and a modular backend structure.
 
-**Tech Stack:** Angular · Node.js · MongoDB · Express
+`Angular` `Node.js` `Express` `MongoDB`
 
+- RESTful API with authentication and authorization
+- Real-time features
+- Clear separation between application modules
+
+## Languages
+
+| Language | Level |
+| --- | --- |
+| 🇺🇦 Ukrainian | Native |
+| 🇷🇺 Russian | Native |
+| 🇩🇪 German | C1 · Advanced |
+| 🇬🇧 English | B1 |
+
+## Certification
+
+<a href="https://www.certible.com/badge/8990a2a9-c049-42d7-a119-b1d1cc28a4e1/">
+  <img src="assets/CTFL4.png" height="105" alt="ISTQB Certified Tester Foundation Level 4.0 certificate badge" />
+</a>
+
+<br />
+
+<sub>ISTQB Certified Tester Foundation Level 4.0</sub>
 
 ---
 
-⭐ **More high-quality projects coming soon.**
+<div align="center">
 
----
+Open to interesting projects and thoughtful collaborations.
 
-⭐️ Always open to interesting projects and collaborations!
+</div>
