@@ -45,25 +45,52 @@ I enjoy turning a product idea into a clean full-stack application — from a th
 
 ## Selected work
 
-### 🔐 Secure Chat Application
+### 🎛️ [QuestControl](https://github.com/so-s1m4/QuestControl)
 
-An end-to-end encrypted real-time messenger concept built around secure communication and a scalable service boundary.
+A control center for physical and VR escape rooms. It brings bookings, live sessions, devices, cameras, and staff workflows into one place.
 
-`Angular` `Node.js` `Express` `Socket.io` `Cryptography`
+`Angular` `Node.js` `PostgreSQL` `Redis` `Socket.IO` `Docker`
 
-- Public/private key cryptography
-- Secure authentication
-- Real-time messaging over WebSockets
+- Room commands travel through a Raspberry Pi agent over an outbound connection, with results reported back in real time.
+- Role-based access, audit logs, and booking conflict checks support day-to-day operations.
+- Camera integrations include Tuya Cloud and local RTSP/ONVIF paths.
 
-### 📦 Full-Stack Web Platform
+### 🤖 [ai-router](https://github.com/so-s1m4/ai-router)
 
-A production-style platform focused on performance, security, and a modular backend structure.
+A self-hosted interface that routes chats to AI CLI tools running on users' own devices. The server manages users, conversations, and routing; each device keeps its provider login and working files locally.
 
-`Angular` `Node.js` `Express` `MongoDB`
+`Angular` `TypeScript` `Node.js` `Socket.IO` `Docker Compose`
 
-- RESTful API with authentication and authorization
-- Real-time features
-- Clear separation between application modules
+- One-time pairing connects runners without opening an inbound port on the user's device.
+- Separate runner storage keeps each connected account's local workspace apart.
+- A mock mode exercises the full chat-to-runner flow without a provider login.
+
+### 🎓 [HTLink](https://github.com/so-s1m4/HTLink)
+
+An in-development school network where students can present their profiles, find project collaborators, and read school announcements.
+
+`Angular` `TypeScript` `Express` `MongoDB` `LDAP` `Docker`
+
+- The backend covers accounts, profiles, projects, and news administration.
+- LDAP integration supports school accounts; the project also uses JWT authentication and API rate limiting.
+
+### 🃏 [HTLBets](https://github.com/so-s1m4/HTLBets)
+
+A school project exploring multiplayer game mechanics with virtual credits only. It combines player profiles, rewards, leaderboards, and an admin area with a collection of games.
+
+`Angular` `Express` `Socket.IO` `PostgreSQL` `Prisma`
+
+- Real-time games include roulette and multiplayer poker; the repository also contains blackjack, slots, and other game modes.
+- School-email sign-in, game history, and deck management connect the games into a shared platform.
+
+### 🧩 [CodingContestMCP](https://github.com/so-s1m4/CodingContestMCP)
+
+A multi-account MCP server for codingcontest.org that exposes contest challenges, files, submissions, and results to connected tools.
+
+`Python` `MCP` `Docker` `Telegram`
+
+- Telegram rooms organize team accounts and show contest progress and accepted solutions.
+- Submission handling includes per-account queues and encrypted session storage.
 
 ## Languages
 
